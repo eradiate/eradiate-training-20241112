@@ -4,7 +4,8 @@ This repository hosts material for the hands-on tutorial of the Eradiate Worksho
 
 * Hyperspectral time series simulation <br/>
   ![Hyperspectral time series simulation](/images/hyperspectral_timeseries.png)
-* Savanna pre-fire scene setup and visualization
+* Savanna pre-fire scene setup and visualization <br/>
+  ![Savanna pre-fire](/images/savanna_prefire.png)
 * Polarized sunset <br/>
   ![Polarized sunset](/images/polarized_sunset.png)
 * Digital elevation model texturing <br/>
