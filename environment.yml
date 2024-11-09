@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+name: eradiate-training-20241112
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - eradiate[kernel]==0.29.1
+    - ipykernel
+    - ipywidgets
+    - netcdf4
+    - seaborn
