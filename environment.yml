@@ -5,7 +5,7 @@ dependencies:
   - python=3.9
   - pip
   - pip:
-    - eradiate[kernel]==0.29.1
+    - eradiate[kernel]==0.29.2
     - ipykernel
     - ipywidgets
     - netcdf4
