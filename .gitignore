@@ -1,4 +1,5 @@
-eradiate_downloads
+eradiate_downloads/
+.eradiate_downloads/
 .DS_Store
 .vscode/
 results/
